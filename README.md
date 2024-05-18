@@ -7,5 +7,7 @@ In this case study we have to dertmine the criteria of lending loan main objecti
   3. Bivariate analysis
   4. Mutlitivatiate analysis heatmap
   5. Observation
+
+
 Contributor
  -Soumendu Dasgupta
