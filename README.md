@@ -10,4 +10,6 @@ In this case study we have to dertmine the criteria of lending loan main objecti
 
 
 Contributor
- -Soumendu Dasgupta
+
+ 1.Soumendu Dasgupta
+ 2.Sonal Jatav
